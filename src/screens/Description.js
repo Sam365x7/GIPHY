@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-evenly'
     },
     Button: {
-        width: '40%',
+        width: '45%',
         alignSelf: 'center',
         backgroundColor: '#ffbec7',
         borderRadius: 15,
